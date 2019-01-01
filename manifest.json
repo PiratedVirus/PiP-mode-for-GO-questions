@@ -12,11 +12,15 @@
             "css": [
                 "styles.css"
             ],
+            "javascript": [
+                "script.js"
+            ],
             "matches": [
                 "https://gateoverflow.in/*"
             ],
             "exclude_matches": [
-                "https://gateoverflow.in/blog/*"
+                "https://gateoverflow.in/blog/*",
+                "https://gateoverflow.in/exam/*"
             ]
         }
     ]
