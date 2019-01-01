@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "PIP mode for GO questions",
+    "version": "0.1.0",
+    "author": "PiratedVirus",
+    "description": "Stick question content to a corner, handy in case of long threads",
+    "icons": {
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "css": [
+                "styles.css"
+            ],
+            "matches": [
+                "https://gateoverflow.in/*"
+            ]
+        }
+    ]
+}
