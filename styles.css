@@ -1,6 +1,6 @@
 /* $('.qa-q-view-content').css('position': 'fixed', 'z-index': '9999', 'top': '2px', 'width': '40%', 'height': '50%', 'right': '2px', 'border': '2px solid black', 'border-radius': '5px', '')', ' */
-
-.qa-q-view-content{
+/* now ported everything to JS */
+/* .qa-q-view-content{
     position: fixed;
     z-index: 99999;
     top: 2px;
@@ -9,4 +9,5 @@
     height: auto;
     border: 2px solid black;
     border-radius: 5px;
-};
+}; */
+
