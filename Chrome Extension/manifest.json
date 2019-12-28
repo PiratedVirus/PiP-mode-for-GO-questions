@@ -16,7 +16,7 @@
                 "script.js"
             ],
             "matches": [
-                "https://gateoverflow.in/*"
+                "https://*.gateoverflow.in/*"
             ],
             "exclude_matches": [
                 "https://gateoverflow.in/blog/*",
